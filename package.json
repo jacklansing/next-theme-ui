@@ -1,5 +1,5 @@
 {
-  "name": "next-with-theme-ui",
+  "name": "next-theme-ui",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,9 +10,8 @@
   "dependencies": {
     "next": "10.0.1",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
-  },
-  "devDependencies": {
+    "react-dom": "17.0.1",
     "theme-ui": "^0.3.3"
-  }
+  },
+  "devDependencies": {}
 }
